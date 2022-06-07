@@ -1,0 +1,19 @@
+git clone git@github.com:USER-NAME/REPOSITORY-NAME.git - clone a REPOSITORY
+git push 
+git push origin main - push to main. 
+
+git add . - adds all files to staging
+git commit -m "Here is a message" commits with a mesage
+
+git status - status of staging files - red has not been added green is ready to push
+git log - shows git log
+
+
+the basic GitHub syntax is program | action | destination
+
+eg
+
+git add . is read as git | add | . 
+git commit -m "message" is read as git | commit -m | "message"
+git status is read as git | status | no destination
+
